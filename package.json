@@ -1,0 +1,20 @@
+{
+  "name": "20242_maua_tti301_descricao_projeto_T1.",
+  "version": "1.0.0",
+  "description": "Atividade 1 Arquitetura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Leletin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0",
+    "nodemon": "^3.1.4"
+  }
+}
